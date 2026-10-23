@@ -76,7 +76,7 @@ DNS Response:
 Record Type: CNAME
 Alias: www.deakin.edu.au
 Canonical Name: deakin.edu.au
-IP Address: 192.168.1.20
+IP Address: 192.168.1.10
 
 
 **Concepts Practised**
